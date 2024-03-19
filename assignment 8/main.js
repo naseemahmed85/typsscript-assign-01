@@ -1,5 +1,4 @@
 //Q9
-let fnumber = 786;
-let message = "my favourite number is";
-console.log(`${message}`, fnumber);
-export {};
+var fnumber = 786;
+var message = "my favourite number is";
+console.log("".concat(message), fnumber);
